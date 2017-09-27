@@ -1,3 +1,9 @@
+# pure-css3-text-carousel-horizontal
+
+Simple CSS3 Text Carousel
+
+Based on:
+
 # Build Boilerplate: Static/ES6/SASS
 
 A boilerplate for building a static app/website with ES6 and SASS.
@@ -72,3 +78,4 @@ Michael Dziedzic ([michaeldziedzic.com](http://michaeldziedzic.com))
 # License
 
 The code is available under the [MIT license](LICENSE.txt).
+
